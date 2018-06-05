@@ -1,0 +1,15 @@
+git add 
+git commit -m "我是注释"
+git diff  (文件 和 add 的对比)
+git diff --staged 暂存区域文件和最近提交的历史文件的区别
+git diff HEAD (文件和commit的对比)
+
+git log --
+
+git rm 删除文件（硬盘）
+
+git ignore
+
+git checkout 
+
+git merge
