@@ -13,4 +13,4 @@ git ignore
 git checkout 
 
 git merge
-合并
+remote
